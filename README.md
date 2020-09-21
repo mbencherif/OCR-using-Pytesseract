@@ -8,3 +8,5 @@ In this project, I tried to extract text from image below using Pytesseract. Wel
 ## Requirements
 1. Pillow, using command ```pip install pillow```
 2. Pytesseract, using command ```pip install pytesseract```
+
+## Project: https://github.com/hansheng0512/OCR-using-Pytesseract/projects/1
